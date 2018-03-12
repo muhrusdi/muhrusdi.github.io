@@ -1,12 +1,16 @@
 {
   "assetsByChunkName": {
+    "path---blog": [
+      "path---blog-a0e39f21c11f6a62c5ab.js",
+      "path---blog-a0e39f21c11f6a62c5ab.js.map"
+    ],
     "path---": [
       "path----557518bd178906f8d58a.js",
       "path----557518bd178906f8d58a.js.map"
     ],
     "component---src-layouts-index-jsx": [
-      "component---src-layouts-index-jsx-f4e3b696de131b092a07.js",
-      "component---src-layouts-index-jsx-f4e3b696de131b092a07.js.map"
+      "component---src-layouts-index-jsx-220500ccefa32249c258.js",
+      "component---src-layouts-index-jsx-220500ccefa32249c258.js.map"
     ],
     "component---node-modules-gatsby-plugin-offline-app-shell-js": [
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
@@ -30,18 +34,22 @@
       "component---src-pages-404-jsx-4503918ea3a16cfcdb75.js",
       "component---src-pages-404-jsx-4503918ea3a16cfcdb75.js.map"
     ],
+    "component---src-pages-blog-jsx": [
+      "component---src-pages-blog-jsx-692e0a96c91456f1d981.js",
+      "component---src-pages-blog-jsx-692e0a96c91456f1d981.js.map"
+    ],
     "path---offline-plugin-app-shell-fallback": [
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
     ],
     "component---src-pages-index-jsx": [
-      "component---src-pages-index-jsx-0886c2b24fc8e43db10a.js",
-      "component---src-pages-index-jsx-0886c2b24fc8e43db10a.js.map"
+      "component---src-pages-index-jsx-b74f61ffc277c961d717.js",
+      "component---src-pages-index-jsx-b74f61ffc277c961d717.js.map"
     ],
     "app": [
-      "app-7801e6e68794ab99aa30.js",
+      "app-a81e3daa6ed45caae907.js",
       "build-js-styles.css",
-      "app-7801e6e68794ab99aa30.js.map",
+      "app-a81e3daa6ed45caae907.js.map",
       "build-js-styles.css.map"
     ],
     "path---404": [
