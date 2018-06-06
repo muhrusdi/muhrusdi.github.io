@@ -3,3 +3,9 @@
   to = "https://www.muhrusdi.com/:splat"
   status = 301
   force = true
+  
+[[redirects]]
+  from = "http://muhrusdi.com/*"
+  to = "https://muhrusdi.com/:splat"
+  status = 301
+  force = true
