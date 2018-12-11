@@ -1,6 +1,6 @@
 title:          Muhamamd Rusdi
 locale:         id_ID
 url:            https://muhrusdi.github.io
-baseurl:       /test-live
+#baseurl:       /test-live
 
-#permalink:      /:categories/:title/
+permalink:      /test-live
